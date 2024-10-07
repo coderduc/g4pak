@@ -10,4 +10,4 @@ cd g4pak
 chmod +x setup 
 ./setup
 ```
-[>] Done, next time just type ### g4pak to execute the tool.
+[>] Done, next time just type **g4pak** to execute the tool.
