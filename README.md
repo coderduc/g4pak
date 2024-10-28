@@ -5,6 +5,7 @@ Simple paktool for pubg mobile (supported non-chunk, chunk)
 termux-setup-storage
 pkg update && pkg upgrade -y
 pkg install git -y
+pkg install libandroid-wordexp
 git clone https://github.com/coderduc/g4pak
 cd g4pak
 chmod +x setup 
