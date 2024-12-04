@@ -6,4 +6,4 @@ termux-setup-storage && pkg update -y && pkg upgrade -y && pkg install git liban
 ```
 [>] Done, next time just type **g4pak** to execute the tool.
 
-[Telegram](https://t.me/G4GlitcherCFVN) to buy the key
+Join my [Telegram](https://t.me/G4GlitcherCFVN) for more
